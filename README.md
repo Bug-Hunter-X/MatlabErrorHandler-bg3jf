@@ -1,0 +1,1 @@
+This repository demonstrates a common MATLAB error related to error handling. The original code uses the `error` function which immediately stops execution. The solution introduces more robust error handling using `try-catch` blocks, improving code reliability and allowing for graceful error management.
